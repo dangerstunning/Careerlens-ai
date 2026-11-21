@@ -59,3 +59,4 @@ See `EVALUATION.md`. Record the actual outputs, your pass/fail assessment, and a
 - AI-generated feedback can be inaccurate. Verify every recommendation and never use it as the sole basis for career decisions.
 - The project is a scaffold; validate model availability, API quota, and deployment before submission.
 # Careerlens-ai
+# Careerlens-ai
